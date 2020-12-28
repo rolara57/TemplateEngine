@@ -4,7 +4,8 @@ A Node CLI that takes in information about employees and generates an HTML webpa
 # Motivation
 As a manager I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
-
+# Github link
+https://rolara57.github.io/TemplateEngine/
 
 ![Screen Shot 2020-12-27 at 6 43 07 PM](https://user-images.githubusercontent.com/60681276/103182756-6b166200-4873-11eb-86fc-90ae5c01fb87.png)
 
